@@ -1,6 +1,6 @@
 # 命令行应用示例
 
-![命令行应用](https://raw.githubusercontent.com/dart-lang/sdk/main/docs/images/dart-logo-400x400.png)
+![这个是二维码](httpsmyblog.thiswind.workhello_console.png)
 
 这是一个简单的命令行应用示例项目，包含以下结构:
 
